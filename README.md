@@ -1,4 +1,4 @@
-<h3 align="center">Sziasztok, a 13.b tagja vagyok</h3>
+<h3 align="center">Gyulus</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
